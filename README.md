@@ -1,13 +1,7 @@
-<h3 align="center">About me:</h3>
-<p align="center">
-- 22 y.o sussy baka
-</p>
-<h1></h1>
 <h3 align="center">Contact me</h3>
 <p align="center">
-<a href="https://t.me/KurimuzonAkuma"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=flat&logo=telegram"></a>
-<a href="https://vk.me/KurimuzonAkuma"><img alt="VK" src="https://img.shields.io/badge/-VK-1a1b27?style=flat&logo=VK&logoColor=0077FF"></a>
-<img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=KurimuzonAkuma">
+<a href="https://t.me/KurimuzonAkuma"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=KurimuzonAkuma&label=Profile%20Visits&style=for-the-badge" />
 </p>
 
 ### Quick stats about me
